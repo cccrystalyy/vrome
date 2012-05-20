@@ -14,7 +14,7 @@ map dd D
 map h gT
 map l gt
 " 移至最左/最右标签
-mmap < g0
+map < g0
 map > g$
 
 " Remove key mapping in normal mode
