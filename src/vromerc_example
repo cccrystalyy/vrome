@@ -21,8 +21,8 @@ set autocomplete_prev_10=<Up>
 set autocomplete_next_10=<Down>
 
 " Rule for next/prev page. (Should written in RegExp)
-set nextpattern+=^NextPage|››$|^下一页
-set previouspattern+=^PrevPage|‹‹$|^上一页
+set nextpattern+=^NextPage|››$|^下一
+set previouspattern+=^PrevPage|‹‹$|^上一
 
 " Change external editor, default is GVim
 set editor=vim -f
