@@ -12,14 +12,14 @@ map dd D
 " " 标签操作
 " 激活左/右标签
 map h gT
-mmap l gt
+map l gt
 " 移至最左/最右标签
 mmap < g0
 map > g$
 
 " Remove key mapping in normal mode
 "unmap <C-f>
-
+unmap <C-Enter>
 " Change key mapping in insert mode
 "imap <M-h> <M-w>
 
